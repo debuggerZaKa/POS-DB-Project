@@ -3417,10 +3417,7 @@ class LoginUI:
     
         # Authors
         authors = [
-            "  • Saira Batool",
-            "  • Tahir Zaka Butt",
-            "  • Muhammad Awais",
-            "  • Zaid Ahmed Bajwa"
+            "  • Tahir Zaka Butt & Muhammad Yahya Khan"
         ]
         for author in authors:
             author_label = tk.Label(self.logout_tab, text=author, font=("Arial", 14), fg="white", bg="#2b2b2b")
